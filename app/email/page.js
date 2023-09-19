@@ -2,7 +2,7 @@ import React from 'react';
 
 const emailMe = () => {
     return (
-        <section className='h-screen bg-slate-700 text-white font-bold' style={{marginTop: "95px"}}>
+        <section className="h-screen bg-slate-700 text-white font-bold" style={{marginTop: "95px"}}>
             <h1 className="text-center text-xl" style={{marginTop: "10px"}}>Contact Me</h1>
             <div class="flex flex-col px-10 py-5 w-1/2">
                 <label for="name" class=" font-bold text-sm ">Your Name</label>
