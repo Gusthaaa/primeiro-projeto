@@ -11,7 +11,7 @@ const Projects = () =>{
                 width={400}
                 height={100}
                 alt="Bookstore project"/>
-                <h1 className="aling-middle mt-32 font-bold italic">This is my first project. It's a simulation of a Bookstore, to do this project I used HTML, CSS, JavaScript.</h1>
+                <h1 className="aling-middle mt-32 italic">This is my first project. It's a simulation of a Bookstore, to do this project I used HTML, CSS, JavaScript.</h1>
             </section>
         </div>
     )
