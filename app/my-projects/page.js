@@ -7,7 +7,7 @@ const Projects = () =>{
             <section className="flex h-24 mt-8  bg-slate-500 w-screen h-1/3" style={{height: "300px"}}>
                 <Image 
                 className="rounded-lg  max-h-full max-w-full mt-3 ml-5 mb-3 mr-5" 
-                src="/PrimeiroProjeto.png"
+                src="https://i.postimg.cc/tg0bt5Dz/Primeiro-Projeto.png"
                 width={400}
                 height={100}
                 alt="Bookstore project"/>

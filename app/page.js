@@ -7,7 +7,7 @@ const homePage = () => {
         <section className='flex flex-row bg-slate-500 h-1/4'>
           <Image
               className="rounded-full w-50 h-50 max-h-full max-w-full mt-3 ml-5 mb-3" 
-              src="/Foto Perfil.jpg"
+              src="https://i.postimg.cc/xjg0DLT0/Foto-Perfil.jpg"
               width={200}
               height={200}
               alt="Picture of the author"
@@ -30,7 +30,7 @@ const homePage = () => {
               </div>
           <Image
               className="rounded-lg w-50 h-50 max-h-full max-w-full mt-3 ml-5 mb-3 mr-5" 
-              src="/café e computador.jpg"
+              src="https://i.postimg.cc/CLXpS7yV/caf-e-computador.jpg"
               width={400}
               height={200}
               alt="Picture of coffe"
