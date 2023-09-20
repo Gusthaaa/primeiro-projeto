@@ -33,11 +33,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-##If you want to use this repo
+## If you want to use this repo
 
 download or fork this repo, and change whatever you need
 
-##Running localy
+## Running localy
 
 Can run the application in VS Code or a terminal and it will be available at http://localhost:3000.
 
