@@ -4,6 +4,7 @@ const emailMe = () => {
     return (
         <section className="h-screen bg-slate-700 text-white font-bold" style={{marginTop: "95px"}}>
             <h1 className="text-center text-xl" style={{marginTop: "10px"}}>Contact Me</h1>
+            <form>
             <div class="flex flex-col px-10 py-5 w-1/2">
                 <label htmlFor="name" class=" font-bold text-sm ">Your Name</label>
                 <input 
@@ -32,7 +33,8 @@ const emailMe = () => {
                 placeholder="Your Message" 
                 required/>
             </div>
-            <button>Submit</button>
+            <button className="px-2 py-1 text-gray-300 hover:text-white mt-8 font-bold">Submit</button>
+            </form>
         </section>
     )
 };
