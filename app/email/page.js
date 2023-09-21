@@ -10,7 +10,7 @@ const emailMe = () => {
                 <input 
                 type="text" 
                 id="name" 
-                class="rounded-sm py-1 " 
+                class="rounded-sm py-1 text-slate-300 " 
                 placeholder="John Doe" 
                 required/>
             </div>
@@ -19,7 +19,7 @@ const emailMe = () => {
                 <input 
                 type="text" 
                 id="email" 
-                class="rounded-sm py-1 " 
+                class="rounded-sm py-1 text-slate-300 " 
                 placeholder="JohnDoe@example.com" 
                 required/>
             </div>
@@ -29,7 +29,7 @@ const emailMe = () => {
                 className='h-32'
                 type="text" 
                 id="message" 
-                class="rounded-sm py-1 " 
+                class="rounded-sm py-1 text-slate-300 " 
                 placeholder="Your Message" 
                 required/>
             </div>
