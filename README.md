@@ -9,6 +9,7 @@ download or fork this repo. First remove the 'src' content from the tag's Image 
 const nextConfig = {}
 
 module.export = NextConfig
+
 ```
 
 ## Running localy
