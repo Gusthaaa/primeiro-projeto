@@ -4,7 +4,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 You need to do this to proceed to the next step because GitHub Pages doesn't support the Image tag from Next.js 13, so i needed to host the image on-line and put the URL in the src.
 download or fork this repo. First remove the 'src' content from the tag's Image in the page's files.
 To use images when running locally, place them in the "public" folder and reference them within your folders.
-You cand read more about the Image tag in: https://nextjs.org/docs/app/api-reference/components/image
+You cand read more about the Image tag in: https://nextjs.org/docs/app/api-reference/components/image. Then set the next.config.js file like this:
+
+```
+/** @type {import('next').NextConfig} */
+
+const nextConfig = {}
+
+module.exports = nextConfig
+```
 
 
 
