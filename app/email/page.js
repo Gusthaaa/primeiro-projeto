@@ -19,7 +19,7 @@ const emailMe = () => {
                 <input 
                 type="text" 
                 id="email" 
-                class="rounded-sm py-1 text-slate-300 " 
+                class="rounded-sm py-1 text-black " 
                 placeholder="JohnDoe@example.com" 
                 required/>
             </div>
@@ -29,11 +29,11 @@ const emailMe = () => {
                 className='h-32'
                 type="text" 
                 id="message" 
-                class="rounded-sm py-1 text-slate-300 " 
+                class="rounded-sm py-1 text-black " 
                 placeholder="Your Message" 
                 required/>
             </div>
-            <button className="px-2 py-1 text-gray-300 hover:text-white mt-8 font-bold">Submit</button>
+            <button className="px-10 py-1 text-gray-300 hover:text-white mt-8 font-bold">Submit</button>
             </form>
         </section>
     )
