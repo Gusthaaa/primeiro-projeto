@@ -37,11 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 download or fork this repo. First remove the 'src' content from the tag's Image in the page's files. After that you need to set the next.config.js file like this:
 
-
+```
 /** @type {import('next').NextConfig} */
 const nextConfig = {}
 
-module.export = NextConfig
+module.export = NextConfig ```
 
 You need to do this to proceed to the next step because GitHub Pages doesn't support the Image tag from Next.js 13.
 
