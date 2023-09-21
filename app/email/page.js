@@ -10,7 +10,7 @@ const emailMe = () => {
                 <input 
                 type="text" 
                 id="name" 
-                class="rounded-sm py-1 text-slate-300 " 
+                class="rounded-sm py-1 text-black " 
                 placeholder="John Doe" 
                 required/>
             </div>
